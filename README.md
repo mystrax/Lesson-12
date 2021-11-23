@@ -24,7 +24,7 @@ Array marks and average
        }
        return 0;
     }
-months- array
+Array-Months
 
     #include <iostream>
     #include<string>
